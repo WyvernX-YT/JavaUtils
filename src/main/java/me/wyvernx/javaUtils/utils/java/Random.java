@@ -44,7 +44,7 @@ public class Random {
     }
 
     //Sad Just Sad
-    public int getRandomInt() {
+    /*public int getRandomInt() {
         StringBuilder numberSequence = new StringBuilder();
         for(int i = 0; i<=length;i++) {
             int j = new java.util.Random().nextInt(9);
@@ -78,7 +78,7 @@ public class Random {
             }
         }
         return i;
-    }
+    }*/
 
     public String getRandomNumber() {
         StringBuilder str = new StringBuilder();
@@ -88,7 +88,7 @@ public class Random {
         return str.toString();
     }
 
-    public Long getRandomLong() {
+    /*public Long getRandomLong() {
         StringBuilder numberSequence = new StringBuilder();
         for(int i = 0; i<=length;i++) {
             int j = new java.util.Random().nextInt(9);
@@ -122,5 +122,5 @@ public class Random {
             }
         }
         return i;
-    }
+    }*/
 }
