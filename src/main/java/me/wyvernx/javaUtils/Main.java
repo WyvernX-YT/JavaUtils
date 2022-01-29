@@ -1,11 +1,7 @@
-package me.wyvernx.javaUtils;
+package me.wyvernx.javautils;
 
 
-import me.wyvernx.javaUtils.classes.Module;
-import me.wyvernx.javaUtils.types.strings.chars.CustomChar;
-import me.wyvernx.javaUtils.utils.format.Format;
-import me.wyvernx.javaUtils.utils.io.Input;
-import me.wyvernx.javaUtils.utils.java.Random;
+import me.wyvernx.javautils.classes.Module;
 
 public class Main extends Module {
 

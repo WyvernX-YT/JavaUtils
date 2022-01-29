@@ -1,4 +1,4 @@
-package me.wyvernx.javaUtils.utils.io;
+package me.wyvernx.javautils.utils.io;
 
 import lombok.SneakyThrows;
 

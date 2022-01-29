@@ -1,4 +1,4 @@
-package me.wyvernx.javaUtils.utils;
+package me.wyvernx.javautils.utils;
 
 public class Mathf {
     public static float mutate(float toMutate) {

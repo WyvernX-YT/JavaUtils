@@ -1,4 +1,4 @@
-package me.wyvernx.javaUtils.utils.java;
+package me.wyvernx.javautils.utils.java;
 
 import org.jetbrains.annotations.Nullable;
 
@@ -6,14 +6,14 @@ public enum Type {
     String(null, java.lang.String.class),
     Integer("int", java.lang.Integer.class),
     Boolean("boolean", java.lang.Boolean.class),
-    Bool(null, me.wyvernx.javaUtils.types.booleans.Bool.class),
+    Bool(null, me.wyvernx.javautils.types.booleans.Bool.class),
     Char("char", Character.class),
-    SingleChar(null, me.wyvernx.javaUtils.types.strings.SingleChar.class),
+    SingleChar(null, me.wyvernx.javautils.types.strings.SingleChar.class),
     Long("long", java.lang.Long.class),
     Float("float", java.lang.Float.class),
     Double("double", java.lang.Double.class),
     BigInteger(null, java.math.BigInteger.class),
-    LargeInt(null, me.wyvernx.javaUtils.types.integers.LargeInt.class),
+    LargeInt(null, me.wyvernx.javautils.types.integers.LargeInt.class),
     Byte("byte", java.lang.Byte.class),
     BigDecimal(null, java.math.BigDecimal.class)
     ;

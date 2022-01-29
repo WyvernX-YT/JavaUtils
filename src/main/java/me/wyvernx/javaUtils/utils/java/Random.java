@@ -1,8 +1,4 @@
-package me.wyvernx.javaUtils.utils.java;
-
-import java.text.CharacterIterator;
-import java.text.StringCharacterIterator;
-import java.util.ArrayList;
+package me.wyvernx.javautils.utils.java;
 
 public class Random {
 

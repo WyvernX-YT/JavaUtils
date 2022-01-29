@@ -25,7 +25,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>me.wyvernx.javaUtils.runTasks.Run</mainClass>
+                            <mainClass>me.wyvernx.javautils.runTasks.Run</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

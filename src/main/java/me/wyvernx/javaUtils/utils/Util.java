@@ -1,8 +1,8 @@
-package me.wyvernx.javaUtils.utils;
+package me.wyvernx.javautils.utils;
 
-import me.wyvernx.javaUtils.types.booleans.Bool;
-import me.wyvernx.javaUtils.types.integers.LargeInt;
-import me.wyvernx.javaUtils.types.strings.SingleChar;
+import me.wyvernx.javautils.types.booleans.Bool;
+import me.wyvernx.javautils.types.integers.LargeInt;
+import me.wyvernx.javautils.types.strings.SingleChar;
 
 import java.util.*;
 import java.util.concurrent.TimeUnit;

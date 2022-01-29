@@ -1,6 +1,4 @@
-package me.wyvernx.javaUtils.utils.file;
-
-import me.wyvernx.javaUtils.utils.ComplexList;
+package me.wyvernx.javautils.utils.file;
 
 import java.io.*;
 import java.net.URI;

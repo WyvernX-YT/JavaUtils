@@ -1,6 +1,6 @@
-package me.wyvernx.javaUtils.utils.webUtils;
+package me.wyvernx.javautils.utils.webUtils;
 
-import me.wyvernx.javaUtils.types.booleans.Bool;
+import me.wyvernx.javautils.types.booleans.Bool;
 
 import java.awt.*;
 import java.net.URI;

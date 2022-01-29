@@ -1,4 +1,4 @@
-package me.wyvernx.javaUtils.types.booleans;
+package me.wyvernx.e.types.booleans;
 
 import java.io.Serializable;
 import java.lang.constant.Constable;

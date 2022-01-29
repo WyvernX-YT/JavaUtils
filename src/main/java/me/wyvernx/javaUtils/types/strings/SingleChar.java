@@ -1,4 +1,4 @@
-package me.wyvernx.javaUtils.types.strings;
+package me.wyvernx.javautils.types.strings;
 
 import org.jetbrains.annotations.NotNull;
 
@@ -13,6 +13,7 @@ public class SingleChar implements CharSequence, Serializable, Constable, Compar
 
     byte[] bytes;
 
+    //dw this is nonesense
     char[] charStorage;
 
 
@@ -22,6 +23,7 @@ public class SingleChar implements CharSequence, Serializable, Constable, Compar
 
     private final int length;
 
+    //dw this is nonesense
     private final int[] binaryValues;
 
     private final byte[] value;
@@ -126,19 +128,4 @@ public class SingleChar implements CharSequence, Serializable, Constable, Compar
         return str;
     }
 
-    public String getBinary() {
-        return printBinary(binaryValues);
-    }
-
-    private String printBinary(int[] binary) {
-
-        StringBuilder result = new StringBuilder();
-        for (int i = 31;i >= 0;i--) {
-            int mask = 1 << i;
-            for(int j = 0; j < binary.length; j++) {
-                result.append((binary[j] & mask) != 0? "1": "0");
-            }
-        }
-        return result.toString();
-    }
 }

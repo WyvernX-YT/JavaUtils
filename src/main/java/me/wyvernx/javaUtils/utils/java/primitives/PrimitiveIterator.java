@@ -1,4 +1,4 @@
-package me.wyvernx.javaUtils.utils.java.primitives;
+package me.wyvernx.javautils.utils.java.primitives;
 
 import java.util.ArrayList;
 import java.util.Iterator;

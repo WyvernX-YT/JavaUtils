@@ -1,4 +1,4 @@
-package me.wyvernx.javaUtils.types.strings.chars;
+package me.wyvernx.javautils.types.strings.chars;
 
 public class DefaultChars {
     int SPACE = 32;

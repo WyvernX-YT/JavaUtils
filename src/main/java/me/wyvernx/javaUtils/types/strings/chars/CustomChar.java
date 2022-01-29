@@ -1,6 +1,5 @@
-package me.wyvernx.javaUtils.types.strings.chars;
+package me.wyvernx.javautils.types.strings.chars;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 
 public class CustomChar {

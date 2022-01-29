@@ -1,11 +1,9 @@
-package me.wyvernx.javaUtils.utils.java.primitives;
+package me.wyvernx.javautils.utils.java.primitives;
 
 import lombok.Getter;
-import me.wyvernx.javaUtils.utils.java.Type;
+import me.wyvernx.javautils.utils.java.Type;
 
 import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.function.Consumer;
 
 public enum Primitive {
     INT("int", 0, Integer.class, Type.Integer),

@@ -1,4 +1,4 @@
-package me.wyvernx.javaUtils.classes;
+package me.wyvernx.javautils.classes;
 
 public class Module {
 

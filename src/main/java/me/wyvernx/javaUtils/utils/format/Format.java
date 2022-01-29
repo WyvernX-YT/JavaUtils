@@ -1,6 +1,6 @@
-package me.wyvernx.javaUtils.utils.format;
+package me.wyvernx.javautils.utils.format;
 
-import me.wyvernx.javaUtils.utils.Util;
+import me.wyvernx.javautils.utils.Util;
 import org.apache.commons.text.StringSubstitutor;
 
 import java.time.LocalDateTime;

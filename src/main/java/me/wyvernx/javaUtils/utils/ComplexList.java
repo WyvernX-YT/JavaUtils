@@ -1,4 +1,4 @@
-package me.wyvernx.javaUtils.utils;
+package me.wyvernx.javautils.utils;
 
 import java.io.Serializable;
 import java.util.ArrayList;
